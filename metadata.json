@@ -1,0 +1,7 @@
+{
+  "name": "Indus Nexus",
+  "description": "University Project & Academic Management System for engineering and computing hardware and software laboratory projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
